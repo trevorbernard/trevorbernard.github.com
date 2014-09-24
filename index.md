@@ -11,8 +11,8 @@ companies. Most recently, I was a co-founder and CTO at
 [UserEvents Inc.](http://userevents.com) where I grew, attracted and lead a
 technical team from inception to acquisition. Our flagship application,
 [CxEngage](http://cxengage.com), was a reactive system built up of many micro
-services written in [Clojure](http://clojure.org) and
-[ZeroMQ](http://zeromq.org).
+services written in [Clojure](http://clojure.org) using
+[ZeroMQ](http://zeromq.org) and [Chronicle](http://openhft.net/hft-products/).
 
 I design and build high performance, distributed and reactive systems on the
 JVM. I believe in building software that’s sympathetic to the machine.

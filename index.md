@@ -35,10 +35,5 @@ maintaining an old code base or programming a greenfield project.
 
 Speed wins in the marketplace. All too often releasing software is a time-consuming, risky and manual process. I can help you build a continuous delivery pipeline and find that balance between velocity and stability.
 
-For a more complete history on me, here are my LinkedIn and Github profiles:
-
-* [LinkedIn](http://ca.linkedin.com/in/trevorbernard)
-* [Github](https://github.com/trevorbernard)
-
 [Contact Me](http://trevorbernard.com/contact/)
 

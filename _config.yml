@@ -5,7 +5,7 @@ author: Trevor Bernard
 description: "Software consulting services; Product development; Technical Leadership; Bespoke software."
 baseurl: ""
 url: "http://trevorbernard.com"
-google_analytics:
+google_analytics: 17847179
 animated: false
 
 # Build settings

@@ -7,10 +7,12 @@ permalink: /index.html
 
 I'm a software craftsman living in Fredericton, New Brunswick, Canada. Over the
 last decade, I've developed software for start-ups, mid sized and Fortune 500
-companies. Most recently, I was a co-founder and CTO at UserEvents Inc. where I
-grew, attracted and lead a technical team from inception to acquisition. Our
-flagship application, CxEngage, was a reactive system built up of many micro
-services written in Clojure and ZeroMQ.
+companies. Most recently, I was a co-founder and CTO at
+[UserEvents Inc.](http://userevents.com) where I grew, attracted and lead a
+technical team from inception to acquisition. Our flagship application,
+[CxEngage](http://cxengage.com), was a reactive system built up of many micro
+services written in [Clojure](http://clojure.org) and
+[ZeroMQ](http://zeromq.org).
 
 I design and build high performance, distributed and reactive systems on the
 JVM. I believe in building software that’s sympathetic to the machine.

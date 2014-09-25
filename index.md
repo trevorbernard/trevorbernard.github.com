@@ -7,7 +7,7 @@ permalink: /index.html
 
 I'm a software craftsman living in Fredericton, New Brunswick, Canada. Over the
 last decade, I've developed software for start-ups, mid sized and Fortune 500
-companies. Most recently, I was a co-founder and CTO at
+companies. Most recently, I was a co-founder and CTO at 
 [UserEvents Inc.](http://userevents.com) where I grew, attracted and lead a
 technical team from inception to acquisition. Our flagship application,
 [CxEngage](http://cxengage.com), was a reactive system built up of many micro

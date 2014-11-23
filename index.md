@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting Services
+title: Clojure | Java | ZeroMQ | Software Consulting
 permalink: /index.html
 ---
 ## Who am I?
